@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588936022 source:d:\workplace\c++ workplace\libmanager\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+	"library.h"
+
+1588935983 d:\workplace\c++ workplace\libmanager\library.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<iomanip>
+
